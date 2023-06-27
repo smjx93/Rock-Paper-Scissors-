@@ -1,5 +1,5 @@
 # rock-paper-scissors
-live: https://
+live: https://rock-paper-scissors-for-the-world.netlify.app/
 
 Rock paper scissors game where you play against the computer.
 
